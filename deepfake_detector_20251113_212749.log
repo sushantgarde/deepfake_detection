@@ -1,0 +1,59 @@
+2025-11-13 21:27:49,770 - INFO - ============================================================
+2025-11-13 21:27:49,771 - INFO - Deepfake Detection System Starting
+2025-11-13 21:27:49,771 - INFO - Log file: deepfake_detector_20251113_212749.log
+2025-11-13 21:27:49,771 - INFO - ============================================================
+2025-11-13 21:27:49,843 - INFO - Reality Defender client initialized successfully
+2025-11-13 21:27:49,903 - INFO - Application started successfully
+2025-11-13 21:27:52,903 - INFO - Opening file selection dialog
+2025-11-13 21:27:56,124 - INFO - Status: Selected: img1.png
+2025-11-13 21:27:56,124 - INFO - File selected: C:/Users/HP/Desktop/Deepfake Detection/img1.png
+2025-11-13 21:27:57,527 - INFO - File size: 0.46 MB
+2025-11-13 21:27:57,530 - INFO - Starting analysis thread for file: C:/Users/HP/Desktop/Deepfake Detection/img1.png
+2025-11-13 21:27:57,530 - INFO - Analysis thread started
+2025-11-13 21:27:57,532 - INFO - Status: Uploading file...
+2025-11-13 21:27:57,535 - INFO - Upload attempt 1/4
+2025-11-13 21:28:53,003 - INFO - Upload successful
+2025-11-13 21:28:53,003 - INFO - Request ID: 3bea6d62-d8d3-4435-b362-06c709701fce
+2025-11-13 21:28:53,003 - INFO - Status: Request ID: 3bea6d62-d8d3-4435-b362-06c709701fce - Analyzing...
+2025-11-13 21:28:53,005 - INFO - Starting to poll for results (request_id: 3bea6d62-d8d3-4435-b362-06c709701fce)
+2025-11-13 21:28:53,007 - INFO - Poll attempt 1 (elapsed: 0.0s)
+2025-11-13 21:28:53,007 - INFO - Media detail request attempt 1/5
+2025-11-13 21:28:54,857 - INFO - Media detail response received (status 200)
+2025-11-13 21:28:54,858 - INFO - Poll 1: status=ANALYZING, finalScore=None
+2025-11-13 21:28:57,859 - INFO - Poll attempt 2 (elapsed: 4.9s)
+2025-11-13 21:28:57,859 - INFO - Media detail request attempt 1/5
+2025-11-13 21:29:00,243 - INFO - Media detail response received (status 200)
+2025-11-13 21:29:00,244 - INFO - Poll 2: status=FAKE, finalScore=94
+2025-11-13 21:29:00,245 - INFO - Final status received: FAKE
+2025-11-13 21:29:00,245 - INFO - Displaying success result: status=FAKE, score=94
+2025-11-13 21:29:00,349 - INFO - Status: Analysis complete ✓
+2025-11-13 21:29:00,349 - INFO - Success result displayed
+2025-11-13 21:29:00,356 - INFO - Analysis thread finished
+2025-11-13 21:29:04,996 - INFO - Clearing results
+2025-11-13 21:29:04,998 - INFO - Status: Ready
+2025-11-13 21:29:04,998 - INFO - Results cleared successfully
+2025-11-13 21:29:07,261 - INFO - Opening file selection dialog
+2025-11-13 21:29:08,983 - INFO - Status: Selected: img2.png
+2025-11-13 21:29:08,984 - INFO - File selected: C:/Users/HP/Desktop/Deepfake Detection/img2.png
+2025-11-13 21:29:09,949 - INFO - File size: 0.23 MB
+2025-11-13 21:29:09,951 - INFO - Starting analysis thread for file: C:/Users/HP/Desktop/Deepfake Detection/img2.png
+2025-11-13 21:29:09,952 - INFO - Analysis thread started
+2025-11-13 21:29:09,953 - INFO - Status: Uploading file...
+2025-11-13 21:29:09,954 - INFO - Upload attempt 1/4
+2025-11-13 21:29:09,954 - WARNING - Upload attempt 1 failed: Failed to get signed URL: Event loop is closed (Code: unknown_error)
+2025-11-13 21:29:09,955 - INFO - Retrying in 2 seconds...
+2025-11-13 21:29:11,958 - INFO - Upload attempt 2/4
+2025-11-13 21:29:11,959 - WARNING - Upload attempt 2 failed: Failed to get signed URL: Event loop is closed (Code: unknown_error)
+2025-11-13 21:29:11,959 - INFO - Retrying in 4 seconds...
+2025-11-13 21:29:15,971 - INFO - Upload attempt 3/4
+2025-11-13 21:29:15,971 - WARNING - Upload attempt 3 failed: Failed to get signed URL: Event loop is closed (Code: unknown_error)
+2025-11-13 21:29:15,972 - INFO - Retrying in 6 seconds...
+2025-11-13 21:29:21,973 - INFO - Upload attempt 4/4
+2025-11-13 21:29:21,973 - WARNING - Upload attempt 4 failed: Failed to get signed URL: Event loop is closed (Code: unknown_error)
+2025-11-13 21:29:21,973 - ERROR - All upload attempts failed: Failed to get signed URL: Event loop is closed (Code: unknown_error)
+2025-11-13 21:29:21,974 - ERROR - Upload failed: {'error': 'upload_failed: Failed to get signed URL: Event loop is closed (Code: unknown_error)'}
+2025-11-13 21:29:21,974 - INFO - Displaying error result: Upload failed. See raw response below.
+2025-11-13 21:29:21,975 - INFO - Status: Analysis failed ✗
+2025-11-13 21:29:21,984 - INFO - Analysis thread finished
+2025-11-13 21:29:26,678 - INFO - Application closed
+2025-11-13 21:29:26,742 - INFO - Application shutdown

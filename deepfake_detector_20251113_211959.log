@@ -1,0 +1,16 @@
+2025-11-13 21:19:59,636 - INFO - ============================================================
+2025-11-13 21:19:59,636 - INFO - Deepfake Detection System Starting
+2025-11-13 21:19:59,636 - INFO - Log file: deepfake_detector_20251113_211959.log
+2025-11-13 21:19:59,636 - INFO - ============================================================
+2025-11-13 21:20:00,172 - INFO - Reality Defender client initialized successfully
+2025-11-13 21:20:00,241 - INFO - Application started successfully
+2025-11-13 21:20:01,930 - INFO - Opening file selection dialog
+2025-11-13 21:20:06,294 - INFO - Status: Selected: ChatGPT Image Nov 13, 2025, 09_19_10 PM.png
+2025-11-13 21:20:06,294 - INFO - File selected: C:/Users/HP/Desktop/Deepfake Detection/ChatGPT Image Nov 13, 2025, 09_19_10 PM.png
+2025-11-13 21:20:10,968 - INFO - File size: 2.60 MB
+2025-11-13 21:20:10,970 - INFO - Starting analysis thread for file: C:/Users/HP/Desktop/Deepfake Detection/ChatGPT Image Nov 13, 2025, 09_19_10 PM.png
+2025-11-13 21:20:10,971 - INFO - Analysis thread started
+2025-11-13 21:20:10,973 - INFO - Status: Uploading file...
+2025-11-13 21:20:10,981 - INFO - Upload attempt 1/4
+2025-11-13 21:23:16,433 - INFO - User closed application during analysis
+2025-11-13 21:23:16,484 - INFO - Application shutdown

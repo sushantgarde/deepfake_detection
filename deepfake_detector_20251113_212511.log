@@ -1,0 +1,84 @@
+2025-11-13 21:25:11,071 - INFO - ============================================================
+2025-11-13 21:25:11,071 - INFO - Deepfake Detection System Starting
+2025-11-13 21:25:11,071 - INFO - Log file: deepfake_detector_20251113_212511.log
+2025-11-13 21:25:11,071 - INFO - ============================================================
+2025-11-13 21:25:11,139 - INFO - Reality Defender client initialized successfully
+2025-11-13 21:25:11,193 - INFO - Application started successfully
+2025-11-13 21:25:13,297 - INFO - Opening file selection dialog
+2025-11-13 21:25:15,888 - INFO - Status: Selected: ChatGPT Image Nov 13, 2025, 09_19_10 PM.png
+2025-11-13 21:25:15,889 - INFO - File selected: C:/Users/HP/Desktop/Deepfake Detection/ChatGPT Image Nov 13, 2025, 09_19_10 PM.png
+2025-11-13 21:25:44,418 - INFO - File size: 0.46 MB
+2025-11-13 21:25:44,420 - INFO - Starting analysis thread for file: C:/Users/HP/Desktop/Deepfake Detection/ChatGPT Image Nov 13, 2025, 09_19_10 PM.png
+2025-11-13 21:25:44,421 - INFO - Analysis thread started
+2025-11-13 21:25:44,422 - INFO - Status: Uploading file...
+2025-11-13 21:25:44,423 - INFO - Upload attempt 1/4
+2025-11-13 21:26:02,050 - INFO - Upload successful
+2025-11-13 21:26:02,050 - INFO - Request ID: 58a07a2c-8480-4299-a868-ed6d90b0a18e
+2025-11-13 21:26:02,050 - INFO - Status: Request ID: 58a07a2c-8480-4299-a868-ed6d90b0a18e - Analyzing...
+2025-11-13 21:26:02,051 - INFO - Starting to poll for results (request_id: 58a07a2c-8480-4299-a868-ed6d90b0a18e)
+2025-11-13 21:26:02,052 - INFO - Poll attempt 1 (elapsed: 0.0s)
+2025-11-13 21:26:02,053 - INFO - Media detail request attempt 1/5
+2025-11-13 21:26:03,541 - INFO - Media detail response received (status 200)
+2025-11-13 21:26:03,542 - INFO - Poll 1: status=ANALYZING, finalScore=None
+2025-11-13 21:26:06,543 - INFO - Poll attempt 2 (elapsed: 4.5s)
+2025-11-13 21:26:06,543 - INFO - Media detail request attempt 1/5
+2025-11-13 21:26:08,377 - INFO - Media detail response received (status 200)
+2025-11-13 21:26:08,377 - INFO - Poll 2: status=ANALYZING, finalScore=None
+2025-11-13 21:26:11,379 - INFO - Poll attempt 3 (elapsed: 9.3s)
+2025-11-13 21:26:11,379 - INFO - Media detail request attempt 1/5
+2025-11-13 21:26:13,210 - INFO - Media detail response received (status 200)
+2025-11-13 21:26:13,212 - INFO - Poll 3: status=ANALYZING, finalScore=None
+2025-11-13 21:26:16,213 - INFO - Poll attempt 4 (elapsed: 14.2s)
+2025-11-13 21:26:16,213 - INFO - Media detail request attempt 1/5
+2025-11-13 21:26:18,460 - INFO - Media detail response received (status 200)
+2025-11-13 21:26:18,462 - INFO - Poll 4: status=ANALYZING, finalScore=None
+2025-11-13 21:26:21,462 - INFO - Poll attempt 5 (elapsed: 19.4s)
+2025-11-13 21:26:21,463 - INFO - Media detail request attempt 1/5
+2025-11-13 21:26:23,441 - INFO - Media detail response received (status 200)
+2025-11-13 21:26:23,442 - INFO - Poll 5: status=ANALYZING, finalScore=None
+2025-11-13 21:26:26,444 - INFO - Poll attempt 6 (elapsed: 24.4s)
+2025-11-13 21:26:26,444 - INFO - Media detail request attempt 1/5
+2025-11-13 21:26:28,277 - INFO - Media detail response received (status 200)
+2025-11-13 21:26:28,279 - INFO - Poll 6: status=ANALYZING, finalScore=None
+2025-11-13 21:26:31,280 - INFO - Poll attempt 7 (elapsed: 29.2s)
+2025-11-13 21:26:31,281 - INFO - Media detail request attempt 1/5
+2025-11-13 21:26:32,931 - INFO - Media detail response received (status 200)
+2025-11-13 21:26:32,933 - INFO - Poll 7: status=ANALYZING, finalScore=None
+2025-11-13 21:26:35,934 - INFO - Poll attempt 8 (elapsed: 33.9s)
+2025-11-13 21:26:35,934 - INFO - Media detail request attempt 1/5
+2025-11-13 21:26:37,778 - INFO - Media detail response received (status 200)
+2025-11-13 21:26:37,779 - INFO - Poll 8: status=ANALYZING, finalScore=None
+2025-11-13 21:26:40,780 - INFO - Poll attempt 9 (elapsed: 38.7s)
+2025-11-13 21:26:40,780 - INFO - Media detail request attempt 1/5
+2025-11-13 21:26:42,988 - INFO - Media detail response received (status 200)
+2025-11-13 21:26:42,989 - INFO - Poll 9: status=FAKE, finalScore=94
+2025-11-13 21:26:42,989 - INFO - Final status received: FAKE
+2025-11-13 21:26:42,991 - INFO - Displaying success result: status=FAKE, score=94
+2025-11-13 21:26:43,109 - INFO - Status: Analysis complete ✓
+2025-11-13 21:26:43,109 - INFO - Success result displayed
+2025-11-13 21:26:43,116 - INFO - Analysis thread finished
+2025-11-13 21:26:52,738 - INFO - Opening file selection dialog
+2025-11-13 21:27:17,138 - INFO - Status: Selected: img2.png
+2025-11-13 21:27:17,140 - INFO - File selected: C:/Users/HP/Desktop/Deepfake Detection/img2.png
+2025-11-13 21:27:18,791 - INFO - File size: 0.23 MB
+2025-11-13 21:27:18,793 - INFO - Starting analysis thread for file: C:/Users/HP/Desktop/Deepfake Detection/img2.png
+2025-11-13 21:27:18,793 - INFO - Analysis thread started
+2025-11-13 21:27:18,795 - INFO - Status: Uploading file...
+2025-11-13 21:27:18,796 - INFO - Upload attempt 1/4
+2025-11-13 21:27:18,796 - WARNING - Upload attempt 1 failed: Failed to get signed URL: Event loop is closed (Code: unknown_error)
+2025-11-13 21:27:18,796 - INFO - Retrying in 2 seconds...
+2025-11-13 21:27:20,798 - INFO - Upload attempt 2/4
+2025-11-13 21:27:20,798 - WARNING - Upload attempt 2 failed: Failed to get signed URL: Event loop is closed (Code: unknown_error)
+2025-11-13 21:27:20,798 - INFO - Retrying in 4 seconds...
+2025-11-13 21:27:24,813 - INFO - Upload attempt 3/4
+2025-11-13 21:27:24,813 - WARNING - Upload attempt 3 failed: Failed to get signed URL: Event loop is closed (Code: unknown_error)
+2025-11-13 21:27:24,813 - INFO - Retrying in 6 seconds...
+2025-11-13 21:27:30,823 - INFO - Upload attempt 4/4
+2025-11-13 21:27:30,823 - WARNING - Upload attempt 4 failed: Failed to get signed URL: Event loop is closed (Code: unknown_error)
+2025-11-13 21:27:30,823 - ERROR - All upload attempts failed: Failed to get signed URL: Event loop is closed (Code: unknown_error)
+2025-11-13 21:27:30,824 - ERROR - Upload failed: {'error': 'upload_failed: Failed to get signed URL: Event loop is closed (Code: unknown_error)'}
+2025-11-13 21:27:30,824 - INFO - Displaying error result: Upload failed. See raw response below.
+2025-11-13 21:27:30,825 - INFO - Status: Analysis failed ✗
+2025-11-13 21:27:30,833 - INFO - Analysis thread finished
+2025-11-13 21:27:45,312 - INFO - Application closed
+2025-11-13 21:27:45,366 - INFO - Application shutdown

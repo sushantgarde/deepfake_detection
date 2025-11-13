@@ -1,0 +1,14 @@
+# Core dependencies
+python-dotenv>=1.0.1           # optional: load .env if you add one later
+requests>=2.28.0               # HTTP library used by SDK/requests-based code
+nest-asyncio>=1.6.0            # allow asyncio inside tkinter loop
+
+# GUI
+customtkinter>=5.2.2           # modern tkinter-based UI
+pillow>=10.3.0                 # image support if you plan to preview images
+
+# Reality Defender SDK (use the latest published 0.1.x release that pip can find)
+realitydefender>=0.1.0,<0.2.0
+
+# Packaging / optional
+pyinstaller>=6.3.0             # for building windows .exe (optional)

@@ -1,0 +1,62 @@
+2025-11-13 21:37:59,933 - INFO - ============================================================
+2025-11-13 21:37:59,933 - INFO - Deepfake Detection System Starting
+2025-11-13 21:37:59,933 - INFO - Log file: deepfake_detector_20251113_213759.log
+2025-11-13 21:37:59,933 - INFO - ============================================================
+2025-11-13 21:38:00,031 - INFO - Reality Defender client initialized successfully
+2025-11-13 21:38:00,033 - INFO - Background event loop started
+2025-11-13 21:38:00,103 - INFO - Application started successfully
+2025-11-13 21:38:05,021 - INFO - Opening file selection dialog
+2025-11-13 21:38:07,609 - INFO - Status: Selected: img2.png
+2025-11-13 21:38:07,609 - INFO - File selected: C:/Users/HP/Desktop/Deepfake Detection/img2.png
+2025-11-13 21:38:09,283 - INFO - File size: 0.23 MB
+2025-11-13 21:38:09,285 - INFO - Starting analysis thread for file: C:/Users/HP/Desktop/Deepfake Detection/img2.png
+2025-11-13 21:38:09,286 - INFO - Analysis thread started
+2025-11-13 21:38:09,287 - INFO - Status: Uploading file...
+2025-11-13 21:38:09,290 - INFO - Upload attempt 1/4
+2025-11-13 21:38:17,281 - INFO - Upload successful
+2025-11-13 21:38:17,281 - INFO - Request ID: 1d0694e1-231d-42c0-9c04-e2da0e40aa93
+2025-11-13 21:38:17,281 - INFO - Status: Request ID: 1d0694e1-231d-42c0-9c04-e2da0e40aa93 - Analyzing...
+2025-11-13 21:38:17,281 - INFO - Starting to poll for results (request_id: 1d0694e1-231d-42c0-9c04-e2da0e40aa93)
+2025-11-13 21:38:17,286 - INFO - Poll attempt 1 (elapsed: 0.0s)
+2025-11-13 21:38:17,286 - INFO - Media detail request attempt 1/5
+2025-11-13 21:38:18,963 - INFO - Media detail response received (status 200)
+2025-11-13 21:38:18,966 - INFO - Poll 1: status=ANALYZING, finalScore=None
+2025-11-13 21:38:21,966 - INFO - Poll attempt 2 (elapsed: 4.7s)
+2025-11-13 21:38:21,966 - INFO - Media detail request attempt 1/5
+2025-11-13 21:38:25,099 - INFO - Media detail response received (status 200)
+2025-11-13 21:38:25,101 - INFO - Poll 2: status=AUTHENTIC, finalScore=7
+2025-11-13 21:38:25,101 - INFO - Final status received: AUTHENTIC
+2025-11-13 21:38:25,101 - INFO - Displaying success result: status=AUTHENTIC, score=7
+2025-11-13 21:38:25,223 - INFO - Status: Analysis complete ✓
+2025-11-13 21:38:25,223 - INFO - Success result displayed
+2025-11-13 21:38:25,232 - INFO - Analysis thread finished
+2025-11-13 21:38:28,478 - INFO - Clearing results
+2025-11-13 21:38:28,481 - INFO - Status: Ready
+2025-11-13 21:38:28,481 - INFO - Results cleared successfully
+2025-11-13 21:38:30,127 - INFO - Opening file selection dialog
+2025-11-13 21:38:32,092 - INFO - Status: Selected: img1.png
+2025-11-13 21:38:32,092 - INFO - File selected: C:/Users/HP/Desktop/Deepfake Detection/img1.png
+2025-11-13 21:38:33,392 - INFO - File size: 0.46 MB
+2025-11-13 21:38:33,394 - INFO - Starting analysis thread for file: C:/Users/HP/Desktop/Deepfake Detection/img1.png
+2025-11-13 21:38:33,395 - INFO - Analysis thread started
+2025-11-13 21:38:33,397 - INFO - Status: Uploading file...
+2025-11-13 21:38:33,399 - INFO - Upload attempt 1/4
+2025-11-13 21:38:40,715 - INFO - Upload successful
+2025-11-13 21:38:40,715 - INFO - Request ID: 17058012-66a0-437b-8a78-07cf56d3e6f6
+2025-11-13 21:38:40,716 - INFO - Status: Request ID: 17058012-66a0-437b-8a78-07cf56d3e6f6 - Analyzing...
+2025-11-13 21:38:40,716 - INFO - Starting to poll for results (request_id: 17058012-66a0-437b-8a78-07cf56d3e6f6)
+2025-11-13 21:38:40,717 - INFO - Poll attempt 1 (elapsed: 0.0s)
+2025-11-13 21:38:40,718 - INFO - Media detail request attempt 1/5
+2025-11-13 21:38:42,430 - INFO - Media detail response received (status 200)
+2025-11-13 21:38:42,432 - INFO - Poll 1: status=ANALYZING, finalScore=None
+2025-11-13 21:38:45,433 - INFO - Poll attempt 2 (elapsed: 4.7s)
+2025-11-13 21:38:45,433 - INFO - Media detail request attempt 1/5
+2025-11-13 21:38:47,628 - INFO - Media detail response received (status 200)
+2025-11-13 21:38:47,630 - INFO - Poll 2: status=FAKE, finalScore=94
+2025-11-13 21:38:47,630 - INFO - Final status received: FAKE
+2025-11-13 21:38:47,631 - INFO - Displaying success result: status=FAKE, score=94
+2025-11-13 21:38:47,635 - INFO - Status: Analysis complete ✓
+2025-11-13 21:38:47,635 - INFO - Success result displayed
+2025-11-13 21:38:47,672 - INFO - Analysis thread finished
+2025-11-13 21:38:54,912 - INFO - Application closed
+2025-11-13 21:38:54,969 - INFO - Application shutdown

@@ -1,0 +1,50 @@
+2025-11-13 21:14:11,079 - INFO - ============================================================
+2025-11-13 21:14:11,079 - INFO - Deepfake Detection System Starting
+2025-11-13 21:14:11,079 - INFO - Log file: deepfake_detector_20251113_211411.log
+2025-11-13 21:14:11,079 - INFO - ============================================================
+2025-11-13 21:14:11,168 - INFO - Reality Defender client initialized successfully
+2025-11-13 21:14:11,217 - INFO - Application started successfully
+2025-11-13 21:14:13,156 - WARNING - No file selected for analysis
+2025-11-13 21:14:15,841 - INFO - Opening file selection dialog
+2025-11-13 21:14:17,530 - INFO - Status: Selected: Screenshot 2025-09-15 204126.png
+2025-11-13 21:14:17,530 - INFO - File selected: C:/Users/HP/Pictures/Screenshots/Screenshot 2025-09-15 204126.png
+2025-11-13 21:14:18,296 - INFO - File size: 0.18 MB
+2025-11-13 21:14:18,298 - INFO - Starting analysis thread for file: C:/Users/HP/Pictures/Screenshots/Screenshot 2025-09-15 204126.png
+2025-11-13 21:14:18,298 - INFO - Analysis thread started
+2025-11-13 21:14:18,300 - INFO - Status: Uploading file...
+2025-11-13 21:14:18,301 - INFO - Upload attempt 1/4
+2025-11-13 21:14:41,416 - INFO - Upload successful
+2025-11-13 21:14:41,416 - INFO - Request ID: d3b45672-2ec1-4f8f-8023-22c498403f59
+2025-11-13 21:14:41,416 - INFO - Status: Request ID: d3b45672-2ec1-4f8f-8023-22c498403f59 - Analyzing...
+2025-11-13 21:14:41,417 - INFO - Starting to poll for results (request_id: d3b45672-2ec1-4f8f-8023-22c498403f59)
+2025-11-13 21:14:41,418 - INFO - Poll attempt 1 (elapsed: 0.0s)
+2025-11-13 21:14:41,419 - INFO - Media detail request attempt 1/5
+2025-11-13 21:14:43,275 - INFO - Media detail response received (status 200)
+2025-11-13 21:14:43,277 - INFO - Poll 1: status=ANALYZING, finalScore=None
+2025-11-13 21:14:46,278 - INFO - Poll attempt 2 (elapsed: 4.9s)
+2025-11-13 21:14:46,278 - INFO - Media detail request attempt 1/5
+2025-11-13 21:14:48,672 - INFO - Media detail response received (status 200)
+2025-11-13 21:14:48,672 - INFO - Poll 2: status=ANALYZING, finalScore=None
+2025-11-13 21:14:51,673 - INFO - Poll attempt 3 (elapsed: 10.3s)
+2025-11-13 21:14:51,673 - INFO - Media detail request attempt 1/5
+2025-11-13 21:14:53,702 - INFO - Media detail response received (status 200)
+2025-11-13 21:14:53,704 - INFO - Poll 3: status=ANALYZING, finalScore=None
+2025-11-13 21:14:56,705 - INFO - Poll attempt 4 (elapsed: 15.3s)
+2025-11-13 21:14:56,705 - INFO - Media detail request attempt 1/5
+2025-11-13 21:15:00,018 - INFO - Media detail response received (status 200)
+2025-11-13 21:15:00,019 - INFO - Poll 4: status=ANALYZING, finalScore=None
+2025-11-13 21:15:03,020 - INFO - Poll attempt 5 (elapsed: 21.6s)
+2025-11-13 21:15:03,020 - INFO - Media detail request attempt 1/5
+2025-11-13 21:15:05,411 - INFO - Media detail response received (status 200)
+2025-11-13 21:15:05,412 - INFO - Poll 5: status=ANALYZING, finalScore=None
+2025-11-13 21:15:08,413 - INFO - Poll attempt 6 (elapsed: 27.0s)
+2025-11-13 21:15:08,413 - INFO - Media detail request attempt 1/5
+2025-11-13 21:15:10,804 - INFO - Media detail response received (status 200)
+2025-11-13 21:15:10,806 - INFO - Poll 6: status=AUTHENTIC, finalScore=7
+2025-11-13 21:15:10,806 - INFO - Final status received: AUTHENTIC
+2025-11-13 21:15:10,806 - INFO - Displaying success result: status=AUTHENTIC, score=7
+2025-11-13 21:15:11,007 - INFO - Status: Analysis complete ✓
+2025-11-13 21:15:11,007 - INFO - Success result displayed
+2025-11-13 21:15:11,015 - INFO - Analysis thread finished
+2025-11-13 21:15:21,291 - INFO - Application closed
+2025-11-13 21:15:21,310 - INFO - Application shutdown
